@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "category": "Inpatient",
+        "date": "2023-09-15",
+        "location": "Room 101",
+        "description": "Recovering from surgery.",
+        "image": "https://i.ibb.co/YkzJhwD/surgery.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "category": "Outpatient",
+        "date": "2023-09-16",
+        "location": "Consultation Room 3",
+        "description": "Follow-up appointment for diabetes.",
+        "image": "https://i.ibb.co/5xV360p/diabetes.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sarah Williams",
+        "category": "Emergency",
+        "date": "2023-09-17",
+        "location": "Emergency Room",
+        "description": "Severe injury from a car accident.",
+        "image": "https://i.ibb.co/G07FGV8/car-accident.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Emily Clark",
+        "category": "Pediatric",
+        "date": "2023-09-18",
+        "location": "Pediatric Ward",
+        "description": "Admitted for fever and cough.",
+        "image": "https://i.ibb.co/TcHRBDJ/fever.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mary Smith",
+        "category": "Maternity",
+        "date": "2023-09-19",
+        "location": "Maternity Ward",
+        "description": "Expecting her first child.",
+        "image": "https://i.ibb.co/dr2Zj1J/child.jpg"
+    },
+    {
+        "id": 6,
+        "name": "William Harris",
+        "category": "Geriatric",
+        "date": "2023-09-20",
+        "location": "Geriatric Care Unit",
+        "description": "Rehabilitation after a hip fracture.",
+        "image": "https://i.ibb.co/C1Hm8GN/hip-fractures.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Olivia Turner",
+        "category": "Psychiatric",
+        "date": "2023-09-21",
+        "location": "Psychiatric Ward",
+        "description": "Treatment for depression and anxiety.",
+        "image": "https://i.ibb.co/xHXbyRT/depression.jpg"
+    },
+    {
+        "id": 8,
+        "name": "James White",
+        "category": "Oncology",
+        "date": "2023-09-22",
+        "location": "Oncology Clinic",
+        "description": "Undergoing chemotherapy for cancer.",
+        "image": "https://i.ibb.co/J2qVsbQ/cancer.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sophia Miller",
+        "category": "Cardiology",
+        "date": "2023-09-23",
+        "location": "Cardiology Department",
+        "description": "Monitoring heart condition.",
+        "image": "https://i.ibb.co/d6hNbvk/heart-patient.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Michael Adams",
+        "category": "Orthopedic",
+        "date": "2023-09-24",
+        "location": "Orthopedic Clinic",
+        "description": "Recovering from a knee surgery.",
+        "image": "https://i.ibb.co/88tGGhR/knee-surgery.jpg"
+    }
+]
